@@ -1,0 +1,34 @@
+[
+  {
+    "pillar": "1",
+    "pillarName": "Be an Enrepreneur",
+    "bronze":[
+      {
+        "task": "Investigate three Entrepreneurs",
+        "details": "Investigate three local Entrepreneurs"
+      }
+    ],
+    "silver":[
+      {
+        "task": "Task name",
+        "details": "details"
+      }
+    ]
+  },
+  {
+    "pillar": "2",
+    "pillarName": "Be a Writer",
+    "bronze":[
+      {
+        "task": "Investigate three Entrepreneurs",
+        "details": "Investigate three local Entrepreneurs"
+      }
+    ],
+    "silver":[
+      {
+        "task": "Task name",
+        "details": "details"
+      }
+    ]
+  },
+]
