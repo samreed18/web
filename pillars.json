@@ -1,4 +1,4 @@
-[ 
+{
   "pillar1":{
     "pillarName": "Be an Entrepreneur",
     "bronze":[
@@ -53,4 +53,4 @@
       }
     ]
   }
-]
+}
