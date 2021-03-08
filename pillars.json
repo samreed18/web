@@ -11,23 +11,92 @@
         "task":"Anything is Possible",
         "description":"Anything is Possible",
         "ID":"c"
+      },
+      {
+        "task":"Take part in the Workshop",
+        "type":"video",
+        "videoURL":"https://pillarsofpossibility.page.link/1b",
+        "description":"Take part in the Workshop",
+        "ID":"d"
+      },
+      {
+        "task":"Complete the workshop challenge",
+        "description":"Complete the workshop challenge",
+        "ID":"e"
       }
     ],
     "silver":[
       {
-        "task":"Investigate a West Sussex based Entrepreneur",
-        "description":"Find and Investigate three West Sussex based Entrepreneurs",
+        "task":"Investigate a UK or Worldwide based Entrepreneur",
+        "description":"Find and Investigate a UK or Worldwide based entrepreneur. What have they done and what they have had to do to be successful",
         "ID":"a"
       },
       {
-        "task":"Anything is Possible",
-        "description":"Anything is Possible",
+        "task":"Take your Bronze idea and write a business plan",
+        "description":"Take your Bronze Pillar 1 idea and write a plan of how it could become a business",
+        "ID":"b"
+      },
+      {
+        "task":"Make a call with an Entrepreneur to ask questions about their journey - ask Mr Dean",
+        "description":"Make a Zoom call chat with an Entrepreneur to ask questions about their journey - ask Mr Dean for contact details (A member of Staff will be present on the Zoom)",
         "ID":"c"
+      {
+        "task":"Anything is Possible",
+        "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
+        "ID":"d"
       }
     ]
   },
   "pillar2":{
-    "pillarName": "Be an Entrepreneur",
+    "pillarName": "Be a Writer",
+    "bronze":[
+      {
+        "task":"Present a book review to a group of people",
+        "description":"Present a book review to a group of people",
+        "ID":"a"
+      },
+      {
+        "task":"Write a S",
+        "description":"Anything is Possible",
+        "ID":"c"
+      },
+      {
+        "task":"Take part in the Workshop",
+        "type":"video",
+        "videoURL":"https://pillarsofpossibility.page.link/1b",
+        "description":"Take part in the Workshop",
+        "ID":"d"
+      },
+      {
+        "task":"Complete the workshop challenge",
+        "description":"Complete the workshop challenge",
+        "ID":"e"
+      }
+    ],
+    "silver":[
+      {
+        "task":"Present a book review to a group of people",
+        "description":"Present a book review to a group of people",
+        "ID":"a"
+      },
+      {
+        "task":"Write a short story or an article that gets published",
+        "description":"Write a short story or an article that gets published somewhere for everyone to read",
+        "ID":"b"
+      },
+      {
+        "task":"Write a piece of peotry",
+        "description":"Write a piece of poetry that is displayed in your tutor room",
+        "ID":"c"
+      {
+        "task":"Anything is Possible",
+        "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
+        "ID":"d"
+      }
+    ]
+  },
+  "pillar3":{
+    "pillarName": "Be able to navigate",
     "bronze":[
       {
         "task":"Investigate a West Sussex based Entrepreneur",
@@ -38,9 +107,45 @@
         "task":"Anything is Possible",
         "description":"Anything is Possible",
         "ID":"c"
+      },
+      {
+        "task":"Take part in the Workshop",
+        "type":"video",
+        "videoURL":"https://pillarsofpossibility.page.link/1b",
+        "description":"Take part in the Workshop",
+        "ID":"d"
+      },
+      {
+        "task":"Complete the workshop challenge",
+        "description":"Complete the workshop challenge",
+        "ID":"e"
       }
     ],
     "silver":[
+      {
+        "task":"Investigate Murray Hambro",
+        "description":"Investigate Murray Hambro and write about his complex journey.",
+        "ID":"a"
+      },
+      {
+        "task":"Present and play your problem solving game with others",
+        "description":"Present and play your problem solving game with others",
+        "ID":"b"
+      },
+      {
+        "task":"Solve and complete a problem in a team set by Mr Dean",
+        "description":"Solve and complete a problem in a team set by Mr Dean",
+        "ID":"c"
+      {
+        "task":"Anything is Possible",
+        "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
+        "ID":"d"
+      }
+    ]
+  },
+  "pillar4":{
+    "pillarName": "Be a Lifesaver",
+    "bronze":[
       {
         "task":"Investigate a West Sussex based Entrepreneur",
         "description":"Find and Investigate three West Sussex based Entrepreneurs",
@@ -50,7 +155,40 @@
         "task":"Anything is Possible",
         "description":"Anything is Possible",
         "ID":"c"
+      },
+      {
+        "task":"Take part in the Workshop",
+        "type":"video",
+        "videoURL":"https://pillarsofpossibility.page.link/1b",
+        "description":"Take part in the Workshop",
+        "ID":"d"
+      },
+      {
+        "task":"Complete the workshop challenge",
+        "description":"Complete the workshop challenge",
+        "ID":"e"
+      }
+    ],
+    "silver":[
+      {
+        "task":"Investigate Murray Hambro",
+        "description":"Investigate Murray Hambro and write about his complex journey.",
+        "ID":"a"
+      },
+      {
+        "task":"Present and play your problem solving game with others",
+        "description":"Present and play your problem solving game with others",
+        "ID":"b"
+      },
+      {
+        "task":"Solve and complete a problem in a team set by Mr Dean",
+        "description":"Solve and complete a problem in a team set by Mr Dean",
+        "ID":"c"
+      {
+        "task":"Anything is Possible",
+        "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
+        "ID":"d"
       }
     ]
-  }
+  },
 }
