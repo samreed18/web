@@ -184,19 +184,14 @@
     ],
     "silver":[
       {
-        "task":"Investigate Murray Hambro",
+        "task":"Investigate and document an organisation's life saving actions",
         "description":"Investigate Murray Hambro and write about his complex journey.",
         "ID":"a"
       },
       {
-        "task":"Present and play your problem solving game with others",
+        "task":"Take part in a lifesaver workshop at school",
         "description":"Present and play your problem solving game with others",
         "ID":"b"
-      },
-      {
-        "task":"Solve and complete a problem in a team set by Mr Dean",
-        "description":"Solve and complete a problem in a team set by Mr Dean",
-        "ID":"c"
       },
       {
         "task":"Anything is Possible",
@@ -238,18 +233,18 @@
     ],
     "silver":[
       {
-        "task":"Investigate Murray Hambro",
-        "description":"Investigate Murray Hambro and write about his complex journey.",
+        "task":"Cook a two course weekend meal for your family",
+        "description":"Cook a two course weekend meal for your family",
         "ID":"a"
       },
       {
-        "task":"Present and play your problem solving game with others",
-        "description":"Present and play your problem solving game with others",
+        "task":"Cook a dish from your made up menu",
+        "description":"Cook a dish from your menu that you created for your Bronze level",
         "ID":"b"
       },
       {
-        "task":"Solve and complete a problem in a team set by Mr Dean",
-        "description":"Solve and complete a problem in a team set by Mr Dean",
+        "task":"Create a healthy snack that you could sell in school",
+        "description":"Create a healthy snack that you could sell in school",
         "ID":"c"
       },
       {
@@ -292,18 +287,18 @@
     ],
     "silver":[
       {
-        "task":"Investigate Murray Hambro",
-        "description":"Investigate Murray Hambro and write about his complex journey.",
+        "task":"Help someone in your community to live a better life",
+        "description":"Help someone in your community to live a better life",
         "ID":"a"
       },
       {
-        "task":"Present and play your problem solving game with others",
-        "description":"Present and play your problem solving game with others",
+        "task":"Investigate 3 Volunteer organisation",
+        "description":"Investigate 3 Volunteer organisation",
         "ID":"b"
       },
       {
-        "task":"Solve and complete a problem in a team set by Mr Dean",
-        "description":"Solve and complete a problem in a team set by Mr Dean",
+        "task":"Get involved in a group that makes decisions",
+        "description":"Get involved in a group that makes decisions for example the student council",
         "ID":"c"
       },
       {
@@ -346,18 +341,18 @@
     ],
     "silver":[
       {
-        "task":"Investigate Murray Hambro",
-        "description":"Investigate Murray Hambro and write about his complex journey.",
+        "task":"Complete any sports related House Challenge",
+        "description":"Complete any sports related House Challenge",
         "ID":"a"
       },
       {
-        "task":"Present and play your problem solving game with others",
-        "description":"Present and play your problem solving game with others",
+        "task":"Present the activity or game that tests people's ability to Bounce Back",
+        "description":"Present the activity or game that tests people's ability to Bounce Back",
         "ID":"b"
       },
       {
-        "task":"Solve and complete a problem in a team set by Mr Dean",
-        "description":"Solve and complete a problem in a team set by Mr Dean",
+        "task":"Complete and record a 6 week period of daily (20 mins) exercise",
+        "description":"Complete and record a 6 week period of daily (20 mins) exercise",
         "ID":"c"
       },
       {
@@ -395,18 +390,13 @@
     ],
     "silver":[
       {
-        "task":"Investigate Murray Hambro",
+        "task":"Perform or present a current issue or a subject of your choice to any audience of 14 or more",
         "description":"Investigate Murray Hambro and write about his complex journey.",
         "ID":"a"
       },
       {
-        "task":"Present and play your problem solving game with others",
-        "description":"Present and play your problem solving game with others",
-        "ID":"b"
-      },
-      {
-        "task":"Solve and complete a problem in a team set by Mr Dean",
-        "description":"Solve and complete a problem in a team set by Mr Dean",
+        "task":"Choose a presentation or a performance that someone else has done and do a review of it giving reasons why you like it",
+        "description":"Choose a presentation or a performance that someone else has done and do a review of it giving reasons why you like it",
         "ID":"c"
       },
       {
@@ -449,18 +439,18 @@
     ],
     "silver":[
       {
-        "task":"Investigate Murray Hambro",
-        "description":"Investigate Murray Hambro and write about his complex journey.",
+        "task":"Continue your Passion Project and show evidence that you are doing that",
+        "description":"Continue your Passion Project and show evidence that you are doing that",
         "ID":"a"
       },
       {
-        "task":"Present and play your problem solving game with others",
-        "description":"Present and play your problem solving game with others",
+        "task":"Tell your Tutor Group about your Passion Project",
+        "description":"Tell your Tutor Group about your Passion Project"",
         "ID":"b"
       },
       {
-        "task":"Solve and complete a problem in a team set by Mr Dean",
-        "description":"Solve and complete a problem in a team set by Mr Dean",
+        "task":"Create a joint activity on your passion Project you can do with someone else",
+        "description":"Create a joint activity on your passion Project you can do with someone else",
         "ID":"c"
       },
       {
@@ -503,18 +493,18 @@
     ],
     "silver":[
       {
-        "task":"Investigate Murray Hambro",
-        "description":"Investigate Murray Hambro and write about his complex journey.",
+        "task":"100% homework completion in a 6 week period",
+        "description":"100% homework completion in a 6 week period",
         "ID":"a"
       },
       {
-        "task":"Present and play your problem solving game with others",
-        "description":"Present and play your problem solving game with others",
+        "task":"Create a poster of the top 10 ways to be organised for your Tutor group",
+        "description":"Create a poster of the top 10 ways to be organised for your Tutor group",
         "ID":"b"
       },
       {
-        "task":"Solve and complete a problem in a team set by Mr Dean",
-        "description":"Solve and complete a problem in a team set by Mr Dean",
+        "task":"Help a member of Staff to organise an activity",
+        "description":"Help a member of Staff to organise an activity",
         "ID":"c"
       },
       {
@@ -556,18 +546,18 @@
     ],
     "silver":[
       {
-        "task":"Investigate Murray Hambro",
-        "description":"Investigate Murray Hambro and write about his complex journey.",
+        "task":"Spend a 6 hour period outside in a wild place (this can be done in sections)",
+        "description":"Spend a 6 hour period outside in a wild place (this can be done in sections)",
         "ID":"a"
       },
       {
-        "task":"Present and play your problem solving game with others",
-        "description":"Present and play your problem solving game with others",
+        "task":"Record a video where you tell people about the benefits of being in nature",
+        "description":"Record a video where you tell people about the benefits of being in nature",
         "ID":"b"
       },
       {
-        "task":"Solve and complete a problem in a team set by Mr Dean",
-        "description":"Solve and complete a problem in a team set by Mr Dean",
+        "task":"Watch a conservation based film and write a review",
+        "description":"Watch a conservation based film and write a review",
         "ID":"c"
       },
       {
@@ -610,18 +600,18 @@
     ],
     "silver":[
       {
-        "task":"Investigate Murray Hambro",
-        "description":"Investigate Murray Hambro and write about his complex journey.",
+        "task":"Write about the person that inspires you the most. Why? What have they done?",
+        "description":"Write about the person that inspires you the most. Why? What have they done?",
         "ID":"a"
       },
       {
-        "task":"Present and play your problem solving game with others",
-        "description":"Present and play your problem solving game with others",
+        "task":"Build your CV using this Builder pillarsofpossibility.page.link/cvbuilder",
+        "description":"Build your CV using this Builder pillarsofpossibility.page.link/cvbuilder",
         "ID":"b"
       },
       {
-        "task":"Solve and complete a problem in a team set by Mr Dean",
-        "description":"Solve and complete a problem in a team set by Mr Dean",
+        "task":"Complete the Careers assessment pillarsofpossibility.page.link/fasttomato (code - CCHG)",
+        "description":"Complete the Careers assessment pillarsofpossibility.page.link/fasttomato (code - CCHG)",
         "ID":"c"
       },
       {
