@@ -1,34 +1,56 @@
-[
-  {
-    "pillar": "1",
-    "pillarName": "Be an Enrepreneur",
+{
+  "pillar1":{
+    "pillarName": "Be an Entrepreneur",
     "bronze":[
       {
-        "task": "Investigate three Entrepreneurs",
-        "details": "Investigate three local Entrepreneurs"
+        "task":"Investigate a West Sussex based Entrepreneur",
+        "description":"Find and Investigate three West Sussex based Entrepreneurs",
+        "ID":"a"
+      },
+      {
+        "task":"Anything is Possible",
+        "description":"Anything is Possible",
+        "ID":"c"
       }
     ],
     "silver":[
       {
-        "task": "Task name",
-        "details": "details"
-      }
-    ]
-  },
-  {
-    "pillar": "2",
-    "pillarName": "Be a Writer",
-    "bronze":[
+        "task":"Investigate a West Sussex based Entrepreneur",
+        "description":"Find and Investigate three West Sussex based Entrepreneurs",
+        "ID":"a"
+      },
       {
-        "task": "Investigate three Entrepreneurs",
-        "details": "Investigate three local Entrepreneurs"
-      }
-    ],
-    "silver":[
-      {
-        "task": "Task name",
-        "details": "details"
+        "task":"Anything is Possible",
+        "description":"Anything is Possible",
+        "ID":"c"
       }
     ]
   }
-]
+  "pillar2":{
+    "pillarName": "Be an Entrepreneur",
+    "bronze":[
+      {
+        "task":"Investigate a West Sussex based Entrepreneur",
+        "description":"Find and Investigate three West Sussex based Entrepreneurs",
+        "ID":"a"
+      },
+      {
+        "task":"Anything is Possible",
+        "description":"Anything is Possible",
+        "ID":"c"
+      }
+    ],
+    "silver":[
+      {
+        "task":"Investigate a West Sussex based Entrepreneur",
+        "description":"Find and Investigate three West Sussex based Entrepreneurs",
+        "ID":"a"
+      },
+      {
+        "task":"Anything is Possible",
+        "description":"Anything is Possible",
+        "ID":"c"
+      }
+    ]
+  }
+}
