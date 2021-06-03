@@ -5,48 +5,56 @@
       {
         "task":"Investigate a West Sussex based Entrepreneur",
         "description":"Find and Investigate three West Sussex based Entrepreneurs",
-        "ID":"a"
+        "ID":"a",
+        "points":2
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible",
         "ID":"c",
-        "counted":"false"
+        "counted":"false",
+        "points":4
       },
       {
         "task":"Watch the Workshop Video",
         "type":"video",
         "videoURL":"https://pillarsofpossibility.page.link/1b",
         "description":"Take part in the Workshop",
-        "ID":"d"
+        "ID":"d",
+        "points":2
       },
       {
         "task":"Complete the workshop challenge",
         "description":"Think of three things that you are curious or passionate about that could become your business in the future?",
-        "ID":"e"
+        "ID":"e",
+        "points":2
       }
     ],
     "silver":[
       {
         "task":"Investigate a UK or Worldwide based Entrepreneur",
         "description":"Find and Investigate a UK or Worldwide based entrepreneur. What have they done and what they have had to do to be successful",
-        "ID":"a"
+        "ID":"a",
+        "points":3
       },
       {
         "task":"Take your Bronze idea and write a business plan",
         "description":"Take your Bronze Pillar 1 idea and write a plan of how it could become a business",
-        "ID":"b"
+        "ID":"b",
+        "points":3
       },
       {
         "task":"Make a call with an Entrepreneur to ask questions about their journey - ask Mr Dean",
         "description":"Make a Zoom call chat with an Entrepreneur to ask questions about their journey - ask Mr Dean for contact details (A member of Staff will be present on the Zoom)",
-        "ID":"c"
+        "ID":"c",
+        "points":3
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
         "ID":"d",
-        "counted":"false"
+        "counted":"false",
+        "points":5
       }
     ]
   },
@@ -56,53 +64,62 @@
       {
         "task":"Read a book and write a book review",
         "description":"Read a book and write a book review",
-        "ID":"a"
+        "ID":"a",
+        "points":2
       },
       {
         "task":"Write a short story. Exactly 500 words",
         "description":"Write a short story. Exactly 500 words",
-        "ID":"b"
+        "ID":"b",
+        "points":2
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible",
         "ID":"c",
-        "counted":"false"
+        "counted":"false",
+        "points":4
       },
       {
         "task":"Watch the Workshop Video",
         "type":"video",
         "videoURL":"https://pillarsofpossibility.page.link/2b",
         "description":"Take part in the Workshop",
-        "ID":"d"
+        "ID":"d",
+        "points":2
       },
       {
         "task":"Complete the workshop challenge",
         "description":"Either write a 5 line poem or a sentence with every word starting with the same letter",
-        "ID":"e"
+        "ID":"e",
+        "points":2
       }
     ],
     "silver":[
       {
         "task":"Present a book review to a group of people",
         "description":"Present a book review to a group of people",
-        "ID":"a"
+        "ID":"a",
+        "points":3
       },
       {
         "task":"Write a short story or an article that gets published",
         "description":"Write a short story or an article that gets published somewhere for everyone to read",
-        "ID":"b"
+        "ID":"b",
+        "points":3
       },
       {
         "task":"Write a piece of peotry",
         "description":"Write a piece of poetry that is displayed in your tutor room",
-        "ID":"c"
+        "ID":"c",
+        "points":3
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
         "ID":"d",
-        "counted":"false"
+        "counted":"false",
+        "points":5
       }
     ]
   },
@@ -112,53 +129,62 @@
       {
         "task":"Investigate someone who has completed a complex journey",
         "description":"Investigate someone who has completed a complex journey",
-        "ID":"a"
+        "ID":"a",
+        "points":2
       },
       {
         "task":"Create a problem solving game",
         "description":"Create a problem solving game",
-        "ID":"b"
+        "ID":"b",
+        "points":2
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible",
         "ID":"c",
-        "counted":"false"
+        "counted":"false",
+        "points":4
       },
       {
         "task":"Watch the Workshop Video",
         "type":"video",
         "videoURL":"https://pillarsofpossibility.page.link/3b",
         "description":"Take part in the Workshop",
-        "ID":"d"
+        "ID":"d",
+        "points":2
       },
       {
         "task":"Complete the workshop challenge",
         "description":"Complete a route card that shows a route across an area of land. A photo, drawing, written description would work well.",
-        "ID":"e"
+        "ID":"e",
+        "points":2
       }
     ],
     "silver":[
       {
         "task":"Investigate Murray Hambro",
         "description":"Investigate Murray Hambro and write about his complex journey.",
-        "ID":"a"
+        "ID":"a",
+        "points":3
       },
       {
         "task":"Present and play your problem solving game with others",
         "description":"Present and play your problem solving game with others",
-        "ID":"b"
+        "ID":"b",
+        "points":3
       },
       {
         "task":"Solve and complete a problem in a team set by Mr Dean",
         "description":"Solve and complete a problem in a team set by Mr Dean",
-        "ID":"c"
+        "ID":"c",
+        "points":3
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
         "ID":"d",
-        "counted":"false"
+        "counted":"false",
+        "points":5
       }
     ]
   },
@@ -168,48 +194,56 @@
       {
         "task":"Investigate 3 people's life saving actions",
         "description":"Investigate 3 people's life saving actions",
-        "ID":"a"
+        "ID":"a",
+        "points":2
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible",
         "ID":"c",
-        "counted":"false"
+        "counted":"false",
+        "points":4
       },
       {
         "task":"Watch the Workshop Video",
         "type":"video",
         "videoURL":"https://pillarsofpossibility.page.link/4b",
         "description":"Take part in the Workshop",
-        "ID":"d"
+        "ID":"d",
+        "points":2
       },
       {
         "task":"Complete the workshop challenge",
         "description":"Have three conversations with different people and record what you have learnt about yourself, what you have learnt as a way of coping and what you have learnt as a new wellbeing tip?",
-        "ID":"e"
+        "ID":"e",
+        "points":2
       }
     ],
     "silver":[
       {
         "task":"Investigate and document an organisation's life saving actions",
         "description":"Investigate and document an organisation's life saving actions.",
-        "ID":"a"
+        "ID":"a",
+        "points":3
       },
       {
         "task":"Take part in a lifesaver workshop at school",
         "description":"Take part in a lifesaver workshop at school.",
-        "ID":"b"
+        "ID":"b",
+        "points":3
       },
       {
         "task":"Become a British Red Cross First Aider",
         "description":"Become a British Red Cross First Aider for the school https://pillarsofpossibility.page.link/redcrossfirsttaid",
-        "ID":"c"
+        "ID":"c",
+        "points":3
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
         "ID":"d",
-        "counted":"false"
+        "counted":"false",
+        "points":5
       }
     ]
   },
@@ -219,53 +253,62 @@
       {
         "task":"Cook for yourself and others and show great creativity",
         "description":"Cook for yourself and others and show great creativity",
-        "ID":"a"
+        "ID":"a",
+        "points":2
       },
       {
         "task":"Create an ethical and sustainable 3 course meal",
         "description":"Create an ethical and sustainable 3 course meal",
-        "ID":"b"
+        "ID":"b",
+        "points":2
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible",
         "ID":"c",
-        "counted":"false"
+        "counted":"false",
+        "points":4
       },
       {
         "task":"Watch the Workshop Video",
         "type":"video",
         "videoURL":"https://pillarsofpossibility.page.link/5b",
         "description":"Take part in the Workshop",
-        "ID":"d"
+        "ID":"d",
+        "points":2
       },
       {
         "task":"Complete the workshop challenge",
         "description":"Create as many ways to cook an egg based dish with only 5 ingredients in each dish.",
-        "ID":"e"
+        "ID":"e",
+        "points":2
       }
     ],
     "silver":[
       {
         "task":"Cook a two course weekend meal for your family",
         "description":"Cook a two course weekend meal for your family",
-        "ID":"a"
+        "ID":"a",
+        "points":3
       },
       {
         "task":"Cook a dish from your made up menu",
         "description":"Cook a dish from your menu that you created for your Bronze level",
-        "ID":"b"
+        "ID":"b",
+        "points":3
       },
       {
         "task":"Create a healthy snack that you could sell in school",
         "description":"Create a healthy snack that you could sell in school",
-        "ID":"c"
+        "ID":"c",
+        "points":3
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
         "ID":"d",
-        "counted":"false"
+        "counted":"false",
+        "points":5
       }
     ]
   },
@@ -275,53 +318,62 @@
       {
         "task":"Help at home with daily chores and childcare",
         "description":"Help at home with daily chores and childcare",
-        "ID":"a"
+        "ID":"a",
+        "points":2
       },
       {
         "task":"Help someone in the community",
         "description":"Help someone in the community",
-        "ID":"b"
+        "ID":"b",
+        "points":2
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible",
         "ID":"c",
-        "counted":"false"
+        "counted":"false",
+        "points":4
       },
       {
         "task":"Watch the Workshop Video",
         "type":"video",
         "videoURL":"https://pillarsofpossibility.page.link/6b",
         "description":"Take part in the Workshop",
-        "ID":"d"
+        "ID":"d",
+        "points":2
       },
       {
         "task":"Complete the workshop challenge",
         "description":"As a family team eat 1242 tiny items of food as quickly as you can. (beans, peas etc)",
-        "ID":"e"
+        "ID":"e",
+        "points":2
       }
     ],
     "silver":[
       {
         "task":"Help someone in your community to live a better life",
         "description":"Help someone in your community to live a better life",
-        "ID":"a"
+        "ID":"a",
+        "points":3
       },
       {
         "task":"Investigate 3 Volunteer organisation",
         "description":"Investigate 3 Volunteer organisation",
-        "ID":"b"
+        "ID":"b",
+        "points":3
       },
       {
         "task":"Get involved in a group that makes decisions",
         "description":"Get involved in a group that makes decisions for example the student council",
-        "ID":"c"
+        "ID":"c",
+        "points":3
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
         "ID":"d",
-        "counted":"false"
+        "counted":"false",
+        "points":5
       }
     ]
   },
@@ -331,53 +383,62 @@
       {
         "task":"Take part in an exercise activity tht makes it difficult to talk",
         "description":"Take part in an exercise activity tht makes it difficult to talk",
-        "ID":"a"
+        "ID":"a",
+        "points":2
       },
       {
         "task":"Create an activity or game that test's people's ability to Bounce Back",
         "description":"Create an activity or game that test's people's ability to Bounce Back",
-        "ID":"b"
+        "ID":"b",
+        "points":2
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible",
         "ID":"c",
-        "counted":"false"
+        "counted":"false",
+        "points":4
       },
       {
         "task":"Watch the Workshop Video",
         "type":"video",
         "videoURL":"https://pillarsofpossibility.page.link/7b",
         "description":"Take part in the Workshop",
-        "ID":"d"
+        "ID":"d",
+        "points":2
       },
       {
         "task":"Complete the workshop challenge",
         "description":"Tell us about a situation that you had to Bounce back?",
-        "ID":"e"
+        "ID":"e",
+        "points":2
       }
     ],
     "silver":[
       {
         "task":"Complete any sports related House Challenge",
         "description":"Complete any sports related House Challenge",
-        "ID":"a"
+        "ID":"a",
+        "points":3
       },
       {
         "task":"Present the activity or game that tests people's ability to Bounce Back",
         "description":"Present the activity or game that tests people's ability to Bounce Back",
-        "ID":"b"
+        "ID":"b",
+        "points":3
       },
       {
         "task":"Complete and record a 6 week period of daily (20 mins) exercise",
         "description":"Complete and record a 6 week period of daily (20 mins) exercise",
-        "ID":"c"
+        "ID":"c",
+        "points":3
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
         "ID":"d",
-        "counted":"false"
+        "counted":"false",
+        "points":5
       }
     ]
   },
@@ -387,43 +448,50 @@
       {
         "task":"Perform or Present a current issue to 4 or more people",
         "description":"Perform or Present a current issue to 4 or more people",
-        "ID":"a"
+        "ID":"a",
+        "points":2
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible",
         "ID":"c",
-        "counted":"false"
+        "counted":"false",
+        "points":4
       },
       {
         "task":"Watch the Workshop Video",
         "type":"video",
         "videoURL":"https://pillarsofpossibility.page.link/8b",
         "description":"Take part in the Workshop",
-        "ID":"d"
+        "ID":"d",
+        "points":2
       },
       {
         "task":"Complete the workshop challenge",
         "description":"Create a 5 to 10 minute presentation on any subject of your choice. ",
-        "ID":"e"
+        "ID":"e",
+        "points":2
       }
     ],
     "silver":[
       {
         "task":"Perform or present a current issue or a subject of your choice to any audience of 14 or more",
         "description":"Investigate Murray Hambro and write about his complex journey.",
-        "ID":"a"
+        "ID":"a",
+        "points":3
       },
       {
         "task":"Choose a presentation or a performance that someone else has done and do a review of it giving reasons why you like it",
         "description":"Choose a presentation or a performance that someone else has done and do a review of it giving reasons why you like it",
-        "ID":"c"
+        "ID":"c",
+        "points":3
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
         "ID":"d",
-        "counted":"false"
+        "counted":"false",
+        "points":5
       }
     ]
   },
@@ -433,53 +501,62 @@
       {
         "task":"Decide an persue / continue your Passion Project",
         "description":"Decide an persue / continue your Passion Project",
-        "ID":"a"
+        "ID":"a",
+        "points":2
       },
       {
         "task":"Tell your family about your Passion Project",
         "description":"Tell your family about your Passion Project",
-        "ID":"b"
+        "ID":"b",
+        "points":2
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible",
         "ID":"c",
-        "counted":"false"
+        "counted":"false",
+        "points":4
       },
       {
         "task":"Watch the Workshop Video",
         "type":"video",
         "videoURL":"https://pillarsofpossibility.page.link/9b",
         "description":"Take part in the Workshop",
-        "ID":"d"
+        "ID":"d",
+        "points":2
       },
       {
         "task":"Complete the workshop challenge",
         "description":"Create a Passion project plan so you can show others what you are going to do. ",
-        "ID":"e"
+        "ID":"e",
+        "points":2
       }
     ],
     "silver":[
       {
         "task":"Continue your Passion Project and show evidence that you are doing that",
         "description":"Continue your Passion Project and show evidence that you are doing that",
-        "ID":"a"
+        "ID":"a",
+        "points":3
       },
       {
         "task":"Tell your Tutor Group about your Passion Project",
         "description":"Tell your Tutor Group about your Passion Project",
-        "ID":"b"
+        "ID":"b",
+        "points":3
       },
       {
         "task":"Create a joint activity on your passion Project you can do with someone else",
         "description":"Create a joint activity on your passion Project you can do with someone else",
-        "ID":"c"
+        "ID":"c",
+        "points":3
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
         "ID":"d",
-        "counted":"false"
+        "counted":"false",
+        "points":5
       }
     ]
   },
@@ -489,53 +566,62 @@
       {
         "task":"100% Classwork completion over a two week period",
         "description":"100% Classwork completion over a two week period",
-        "ID":"a"
+        "ID":"a",
+        "points":2
       },
       {
         "task":"Create a list of the Top 10 ways to be organised",
         "description":"Create a list of the Top 10 ways to be organised",
-        "ID":"b"
+        "ID":"b",
+        "points":2
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible",
         "ID":"c",
-        "counted":"false"
+        "counted":"false",
+        "points":4
       },
       {
         "task":"Watch the Workshop Video",
         "type":"video",
         "videoURL":"https://pillarsofpossibility.page.link/10b",
         "description":"Take part in the Workshop",
-        "ID":"d"
+        "ID":"d",
+        "points":2
       },
       {
         "task":"Complete the workshop challenge",
         "description":"Plan out a whole day so it helps you be more organised. From the time you wake up to the time you go to sleep. What steps would you take to keep your day a stress free day?",
-        "ID":"e"
+        "ID":"e",
+        "points":2
       }
     ],
     "silver":[
       {
         "task":"100% homework completion in a 6 week period",
         "description":"100% homework completion in a 6 week period",
-        "ID":"a"
+        "ID":"a",
+        "points":3
       },
       {
         "task":"Create a poster of the top 10 ways to be organised for your Tutor group",
         "description":"Create a poster of the top 10 ways to be organised for your Tutor group",
-        "ID":"b"
+        "ID":"b",
+        "points":3
       },
       {
         "task":"Help a member of Staff to organise an activity",
         "description":"Help a member of Staff to organise an activity",
-        "ID":"c"
+        "ID":"c",
+        "points":3
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
         "ID":"d",
-        "counted":"false"
+        "counted":"false",
+        "points":5
       }
     ]
   },"pillar11":{
@@ -544,53 +630,62 @@
       {
         "task":"Spend a 2 hour period outside in a wild place",
         "description":"Spend a 2 hour period outside in a wild place",
-        "ID":"a"
+        "ID":"a",
+        "points":2
       },
       {
         "task":"Write an article for a newspaper explaining the benefits of being in nature",
         "description":"Write an article for a newspaper explaining the benefits of being in nature",
-        "ID":"b"
+        "ID":"b",
+        "points":2
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible",
         "ID":"c",
-        "counted":"false"
+        "counted":"false",
+        "points":4
       },
       {
         "task":"Watch the Workshop Video",
         "type":"video",
         "videoURL":"https://pillarsofpossibility.page.link/11b",
         "description":"Take part in the Workshop",
-        "ID":"d"
+        "ID":"d",
+        "points":2
       },
       {
         "task":"Complete the workshop challenge",
         "description":"Create and build a natural bird feeder. It has to be made out of natural products and must hang from a tree for the birds to eat out of.",
-        "ID":"e"
+        "ID":"e",
+        "points":2
       }
     ],
     "silver":[
       {
         "task":"Spend a 6 hour period outside in a wild place (this can be done in sections)",
         "description":"Spend a 6 hour period outside in a wild place (this can be done in sections)",
-        "ID":"a"
+        "ID":"a",
+        "points":3
       },
       {
         "task":"Record a video where you tell people about the benefits of being in nature",
         "description":"Record a video where you tell people about the benefits of being in nature",
-        "ID":"b"
+        "ID":"b",
+        "points":3
       },
       {
         "task":"Watch a conservation based film and write a review",
         "description":"Watch a conservation based film and write a review",
-        "ID":"c"
+        "ID":"c",
+        "points":3
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
         "ID":"d",
-        "counted":"false"
+        "counted":"false",
+        "points":5
       }
     ]
   },
@@ -600,53 +695,62 @@
       {
         "task":"Investigate someone who is an inspiration to you the most",
         "description":"Investigate someone who is an inspiration to you the most",
-        "ID":"a"
+        "ID":"a",
+        "points":2
       },
       {
         "task":"Name 5 people who help you the most to be inspired",
         "description":"Name 5 people who help you the most to be inspired",
-        "ID":"b"
+        "ID":"b",
+        "points":2
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible",
         "ID":"c",
-        "counted":"false"
+        "counted":"false",
+        "points":4
       },
       {
         "task":"Watch the Workshop Video",
         "type":"video",
         "videoURL":"https://pillarsofpossibility.page.link/12b",
         "description":"Take part in the Workshop",
-        "ID":"d"
+        "ID":"d",
+        "points":2
       },
       {
         "task":"Complete the workshop challenge",
         "description":"Make contact with someone that supports students at the school. Please email Mr Dean for an Partner email contact.",
-        "ID":"e"
+        "ID":"e",
+        "points":2
       }
     ],
     "silver":[
       {
         "task":"Write about the person that inspires you the most. Why? What have they done?",
         "description":"Write about the person that inspires you the most. Why? What have they done?",
-        "ID":"a"
+        "ID":"a",
+        "points":3
       },
       {
         "task":"Build your CV using this Builder pillarsofpossibility.page.link/cvbuilder",
         "description":"Build your CV using this Builder pillarsofpossibility.page.link/cvbuilder",
-        "ID":"b"
+        "ID":"b",
+        "points":3
       },
       {
         "task":"Complete the Careers assessment pillarsofpossibility.page.link/fasttomato (code - CCHG)",
         "description":"Complete the Careers assessment pillarsofpossibility.page.link/fasttomato (code - CCHG)",
-        "ID":"c"
+        "ID":"c",
+        "points":3
       },
       {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible - Extend your Learning and Understanding. You can add anything relevant to your entrepreneurialism as evidence. This does not have to be completed to get this level but will help with the next level.",
         "ID":"d",
-        "counted":"false"
+        "counted":"false",
+        "points":5
       }
     ]
   }
