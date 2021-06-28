@@ -1,7 +1,7 @@
 {
   "pillar1":{
     "pillarName": "Be an Entrepreneur",
-    "departments": ["technical_team.png","music.png"]
+    "departments": ["technical_team.png","music.png"],
     "bronze":[
       {
         "task":"Investigate a West Sussex based Entrepreneur",
