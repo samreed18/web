@@ -60,7 +60,7 @@
   },
   "pillar2":{
     "pillarName": "Be a Writer",
-    "departments": ["in_doctrina_fidei.png","mfl.png"],
+    "departments": ["english.png","mfl.png"],
     "bronze":[
       {
         "task":"Read a book and write a book review",
