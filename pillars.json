@@ -1,7 +1,6 @@
 {
   "pillar1":{
     "pillarName": "Be an Entrepreneur",
-    "departments": ["technical_team.png","music.png"],
     "bronze":[
       {
         "task":"Investigate a West Sussex based Entrepreneur",
@@ -61,6 +60,7 @@
   },
   "pillar2":{
     "pillarName": "Be a Writer",
+    "departments": ["english.png","mfl.png"],
     "bronze":[
       {
         "task":"Read a book and write a book review",
@@ -445,6 +445,7 @@
   },
   "pillar8":{
     "pillarName": "Be a Presenter / Performer",
+    "departments": ["history.png","music.png"],
     "bronze":[
       {
         "task":"Perform or Present a current issue to 4 or more people",
@@ -498,6 +499,7 @@
   },
   "pillar9":{
     "pillarName": "Do a Passion Project",
+    "departments": ["art.png","design_technology.png","technical_team.png"],
     "bronze":[
       {
         "task":"Decide an persue / continue your Passion Project",
@@ -563,6 +565,7 @@
   },
   "pillar10":{
     "pillarName": "Be Organised",
+    "departments": ["technical_team.png"],
     "bronze":[
       {
         "task":"100% Classwork completion over a two week period",
@@ -692,6 +695,7 @@
   },
   "pillar12":{
     "pillarName": "Be Inspired",
+    "departments": ["technical_team.png","computing.png","technical_team.png"],
     "bronze":[
       {
         "task":"Investigate someone who is an inspiration to you the most",
