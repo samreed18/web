@@ -499,7 +499,7 @@
   },
   "pillar9":{
     "pillarName": "Do a Passion Project",
-    "departments": ["art.png","design_technology.png","technical_team.png"],
+    "departments": ["art.png","design_technology.png","in_doctrina_fidei.png"],
     "bronze":[
       {
         "task":"Decide an persue / continue your Passion Project",
@@ -565,7 +565,7 @@
   },
   "pillar10":{
     "pillarName": "Be Organised",
-    "departments": ["technical_team.png"],
+    "departments": ["in_doctrina_fidei.png"],
     "bronze":[
       {
         "task":"100% Classwork completion over a two week period",
@@ -695,7 +695,7 @@
   },
   "pillar12":{
     "pillarName": "Be Inspired",
-    "departments": ["technical_team.png","computing.png","technical_team.png"],
+    "departments": ["in_doctrina_fidei.png","computing.png","in_doctrina_fidei.png"],
     "bronze":[
       {
         "task":"Investigate someone who is an inspiration to you the most",
