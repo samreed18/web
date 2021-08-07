@@ -1,7 +1,7 @@
 {
   "pillar1":{
     "pillarName": "Be an Entrepreneur",
-    "bronze":[
+    1:[
       {
         "task":"Investigate a West Sussex based Entrepreneur",
         "description":"Find and Investigate three West Sussex based Entrepreneurs",
@@ -30,7 +30,7 @@
         "points":5
       }
     ],
-    "silver":[
+    2:[
       {
         "task":"Investigate a UK or Worldwide based Entrepreneur",
         "description":"Find and Investigate a UK or Worldwide based entrepreneur. What have they done and what they have had to do to be successful",
@@ -61,7 +61,7 @@
   "pillar2":{
     "pillarName": "Be a Writer",
     "departments": ["English","Modern Foreign Languages"],
-    "bronze":[
+    1:[
       {
         "task":"Read a book and write a book review",
         "description":"Read a book and write a book review",
@@ -96,7 +96,7 @@
         "points":5
       }
     ],
-    "silver":[
+    2:[
       {
         "task":"Present a book review to a group of people",
         "description":"Present a book review to a group of people",
@@ -126,7 +126,7 @@
   },
   "pillar3":{
     "pillarName": "Be able to navigate",
-    "bronze":[
+    1:[
       {
         "task":"Investigate someone who has completed a complex journey",
         "description":"Investigate someone who has completed a complex journey",
@@ -161,7 +161,7 @@
         "points":5
       }
     ],
-    "silver":[
+    2:[
       {
         "task":"Investigate Murray Hambro",
         "description":"Investigate Murray Hambro and write about his complex journey.",
@@ -191,7 +191,7 @@
   },
   "pillar4":{
     "pillarName": "Be a Lifesaver",
-    "bronze":[
+    1:[
       {
         "task":"Investigate 3 people's life saving actions",
         "description":"Investigate 3 people's life saving actions",
@@ -220,7 +220,7 @@
         "points":5
       }
     ],
-    "silver":[
+    2:[
       {
         "task":"Investigate and document an organisation's life saving actions",
         "description":"Investigate and document an organisation's life saving actions.",
@@ -250,7 +250,7 @@
   },
   "pillar5":{
     "pillarName": "Be able to cook a meal",
-    "bronze":[
+    1:[
       {
         "task":"Cook for yourself and others and show great creativity",
         "description":"Cook for yourself and others and show great creativity",
@@ -285,7 +285,7 @@
         "points":5
       }
     ],
-    "silver":[
+    2:[
       {
         "task":"Cook a two course weekend meal for your family",
         "description":"Cook a two course weekend meal for your family",
@@ -315,7 +315,7 @@
   },
   "pillar6":{
     "pillarName": "Be a Volunteer",
-    "bronze":[
+    1:[
       {
         "task":"Help at home with daily chores and childcare",
         "description":"Help at home with daily chores and childcare",
@@ -350,7 +350,7 @@
         "points":5
       }
     ],
-    "silver":[
+    2:[
       {
         "task":"Help someone in your community to live a better life",
         "description":"Help someone in your community to live a better life",
@@ -380,7 +380,7 @@
   },
   "pillar7":{
     "pillarName": "Be able to Bounce Back",
-    "bronze":[
+    1:[
       {
         "task":"Take part in an exercise activity tht makes it difficult to talk",
         "description":"Take part in an exercise activity tht makes it difficult to talk",
@@ -415,7 +415,7 @@
         "points":5
       }
     ],
-    "silver":[
+    2:[
       {
         "task":"Complete any sports related House Challenge",
         "description":"Complete any sports related House Challenge",
@@ -446,7 +446,7 @@
   "pillar8":{
     "pillarName": "Be a Presenter / Performer",
     "departments": ["History","Music"],
-    "bronze":[
+    1:[
       {
         "task":"Perform or Present a current issue to 4 or more people",
         "description":"Perform or Present a current issue to 4 or more people",
@@ -475,7 +475,7 @@
         "points":5
       }
     ],
-    "silver":[
+    2:[
       {
         "task":"Perform or present a current issue or a subject of your choice to any audience of 14 or more",
         "description":"Investigate Murray Hambro and write about his complex journey.",
@@ -500,7 +500,7 @@
   "pillar9":{
     "pillarName": "Do a Passion Project",
     "departments": ["Art","Design Technology"],
-    "bronze":[
+    1:[
       {
         "task":"Decide an persue / continue your Passion Project",
         "description":"Decide an persue / continue your Passion Project",
@@ -535,7 +535,7 @@
         "points":5
       }
     ],
-    "silver":[
+    2:[
       {
         "task":"Continue your Passion Project and show evidence that you are doing that",
         "description":"Continue your Passion Project and show evidence that you are doing that",
@@ -565,7 +565,7 @@
   },
   "pillar10":{
     "pillarName": "Be Organised",
-    "bronze":[
+    1:[
       {
         "task":"100% Classwork completion over a two week period",
         "description":"100% Classwork completion over a two week period",
@@ -600,7 +600,7 @@
         "points":5
       }
     ],
-    "silver":[
+    2:[
       {
         "task":"100% homework completion in a 6 week period",
         "description":"100% homework completion in a 6 week period",
@@ -629,7 +629,7 @@
     ]
   },"pillar11":{
     "pillarName": "Be Proactive",
-    "bronze":[
+    1:[
       {
         "task":"Spend a 2 hour period outside in a wild place",
         "description":"Spend a 2 hour period outside in a wild place",
@@ -664,7 +664,7 @@
         "points":5
       }
     ],
-    "silver":[
+    2:[
       {
         "task":"Spend a 6 hour period outside in a wild place (this can be done in sections)",
         "description":"Spend a 6 hour period outside in a wild place (this can be done in sections)",
@@ -695,7 +695,7 @@
   "pillar12":{
     "pillarName": "Be Inspired",
     "departments": ["Computing"],
-    "bronze":[
+    1:[
       {
         "task":"Investigate someone who is an inspiration to you the most",
         "description":"Investigate someone who is an inspiration to you the most",
@@ -730,7 +730,7 @@
         "points":5
       }
     ],
-    "silver":[
+    2:[
       {
         "task":"Write about the person that inspires you the most. Why? What have they done?",
         "description":"Write about the person that inspires you the most. Why? What have they done?",
