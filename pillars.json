@@ -208,6 +208,12 @@
         "points":15
       },
       {
+        "task":"Have three conversations with different people about coping and record what you have learnt about them",
+        "description":"Have three conversations with different people about coping and record what you have learnt about them, what you have learnt as a way of coping and what you have learnt as a new wellbeing tip?",
+        "ID":"b",
+        "points":15
+      }, 
+      {
         "task":"Anything is Possible - Any extra Evidence",
         "description":"Anything is Possible",
         "ID":"c",
