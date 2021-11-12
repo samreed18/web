@@ -503,9 +503,15 @@
     ],
     "2":[
       {
-        "task":"Perform or present a current issue or a subject of your choice to any audience of 14 or more",
-        "description":"Investigate Murray Hambro and write about his complex journey.",
+        "task":"Perform or present a current issue or a subject of your choice to any audience of 14 or more.",
+        "description":"Perform or present a current issue or a subject of your choice to any audience of 14 or more.",
         "ID":"a",
+        "points":20
+      },
+      {
+        "task":"Perform or present a current issue or a subject of your choice to any audience of 50 or more",
+        "description":"Perform or present a current issue or a subject of your choice to any audience of 50 or more",
+        "ID":"b",
         "points":20
       },
       {
