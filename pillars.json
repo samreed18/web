@@ -534,8 +534,8 @@
     "departments": ["Art","Design Technology"],
     "1":[
       {
-        "task":"Decide an persue / continue your Passion Project",
-        "description":"Decide an persue / continue your Passion Project",
+        "task":"Decide and persue / continue your Passion Project",
+        "description":"Decide and persue / continue your Passion Project",
         "ID":"a",
         "points":15
       },
@@ -563,7 +563,7 @@
       },
       {
         "task":"Complete the workshop challenge",
-        "description":"Create a Passion project plan so you can show others what you are going to do. ",
+        "description":"Create a Passion project plan so you can show others what you are going to do.",
         "ID":"e",
         "points":15
       }
@@ -582,8 +582,8 @@
         "points":20
       },
       {
-        "task":"Create a joint activity on your passion Project you can do with someone else",
-        "description":"Create a joint activity on your passion Project you can do with someone else",
+        "task":"Create a joint activity on your Passion Project you can do with someone else",
+        "description":"Create a joint activity on your Passion Project you can do with someone else",
         "ID":"c",
         "points":20
       },
@@ -732,14 +732,14 @@
     "departments": ["Computing"],
     "1":[
       {
-        "task":"Investigate someone who is an inspiration to you the most",
-        "description":"Investigate someone who is an inspiration to you the most",
+        "task":"Investigate someone who is an inspiration to you",
+        "description":"Investigate someone who is an inspiration to you",
         "ID":"a",
         "points":15
       },
       {
-        "task":"Name 5 people who help you the most to be inspired",
-        "description":"Name 5 people who help you the most to be inspired",
+        "task":"Name 5 people who help you to be inspired",
+        "description":"Name 5 people who help you to be inspired",
         "ID":"b",
         "points":15
       },
@@ -774,8 +774,8 @@
         "points":20
       },
       {
-        "task":"Build your CV using this Builder pillarsofpossibility.page.link/cvbuilder",
-        "description":"Build your CV using this Builder pillarsofpossibility.page.link/cvbuilder",
+        "task":"Build your CV",
+        "description":"Build your CV. Ask Mr Dean for advice",
         "ID":"b",
         "points":20
       },
