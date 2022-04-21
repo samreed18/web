@@ -45,8 +45,8 @@
         "points":20
       },
       {
-        "task":"Take your Bronze idea and write a business plan",
-        "description":"Take your Bronze Pillar 1 idea and write a plan of how it could become a business",
+        "task":"Take your Level 1 idea and write a business plan",
+        "description":"Take your Level 1 idea and write a plan of how it could become a business",
         "ID":"b",
         "points":20
       },
@@ -66,7 +66,7 @@
     ],
     "3":[
       {
-        "task":"Develop buisness plan",
+        "task":"Develop your business plan",
         "description":"TEST Description",
         "ID":"a",
         "points":30
@@ -152,6 +152,28 @@
         "counted":"false",
         "points":0
       }
+    ],
+    "3":[
+      {
+        "task":"Write a play",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":30
+      },
+      {
+        "task":"Write a song",
+        "description":"TEST Description",
+        "ID":"b",
+        "points":30
+      }
+    ],
+    "4":[
+      {
+        "task":"Publish a story/book/play/song",
+        "description":"Get one of the pieces you have written (or a new piece) published",
+        "ID":"a",
+        "points":60
+      }
     ]
   },
   "pillar3":{
@@ -217,6 +239,28 @@
         "ID":"d",
         "counted":"false",
         "points":0
+      }
+    ],
+    "3":[
+      {
+        "task":"Meet Murray Hambro",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":30
+      },
+      {
+        "task":"Plan a complex journey",
+        "description":"TEST Description",
+        "ID":"b",
+        "points":30
+      }
+    ],
+    "4":[
+      {
+        "task":"Take part in a complex journey",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":60
       }
     ]
   },
@@ -284,6 +328,28 @@
         "counted":"false",
         "points":0
       }
+    ],
+    "3":[
+      {
+        "task":"Become a well being ambassador",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":30
+      },
+      {
+        "task":"Help coordinate a First Aid/Well Being Workshop",
+        "description":"TEST Description",
+        "ID":"b",
+        "points":30
+      }
+    ],
+    "4":[
+      {
+        "task":"Become a British Red Cross First Aider",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":60
+      }
     ]
   },
   "pillar5":{
@@ -338,8 +404,8 @@
         "points":20
       },
       {
-        "task":"Create a healthy snack that you could sell in school",
-        "description":"Create a healthy snack that you could sell in school",
+        "task":"Create a healthy snack",
+        "description":"Create a healthy snack",
         "ID":"c",
         "points":20
       },
@@ -349,6 +415,28 @@
         "ID":"d",
         "counted":"false",
         "points":0
+      }
+    ],
+    "3":[
+      {
+        "task":"Cook an ethical and sustainable 3 course meal",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":30
+      },
+      {
+        "task":"Work with others in creating a meal for someone in need",
+        "description":"TEST Description",
+        "ID":"b",
+        "points":30
+      }
+    ],
+    "4":[
+      {
+        "task":"Coordinate an event to feed people in need",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":60
       }
     ]
   },
@@ -416,6 +504,28 @@
         "counted":"false",
         "points":0
       }
+    ],
+    "3":[
+      {
+        "task":"Volunteer for a Non Profit organisation",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":30
+      },
+      {
+        "task":"Have a role as an ambassador within the school",
+        "description":"TEST Description",
+        "ID":"b",
+        "points":30
+      }
+    ],
+    "4":[
+      {
+        "task":"Help and guide younger students to volunteer",
+        "description":"Senior Ambassadors",
+        "ID":"a",
+        "points":60
+      }
     ]
   },
   "pillar7":{
@@ -465,7 +575,7 @@
       },
       {
         "task":"Present the activity or game that tests people's ability to Bounce Back",
-        "description":"Present the activity or game that tests people's ability to Bounce Back",
+        "description":"Present the activity or game that test's people's ability to Bounce Back",
         "ID":"b",
         "points":20
       },
@@ -481,6 +591,28 @@
         "ID":"d",
         "counted":"false",
         "points":0
+      }
+    ],
+    "3":[
+      {
+        "task":"Complete and record a 40 minute exercise daily for a 12 week period",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":30
+      },
+      {
+        "task":"Compete in an external sports organisation",
+        "description":"TEST Description",
+        "ID":"b",
+        "points":30
+      }
+    ],
+    "4":[
+      {
+        "task":"Compete at a county or above level",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":60
       }
     ]
   },
@@ -549,6 +681,28 @@
         "counted":"false",
         "points":0
       }
+    ],
+    "3":[
+      {
+        "task":"Perform or present a current issue or a subject to an online audience of 1000",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":30
+      },
+      {
+        "task":"Create a presentation of a current issue or subject",
+        "description":"TEST Description",
+        "ID":"b",
+        "points":30
+      }
+    ],
+    "4":[
+      {
+        "task":"Perform or present in front of 2000 or more",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":60
+      }
     ]
   },
   "pillar9":{
@@ -616,6 +770,28 @@
         "counted":"false",
         "points":0
       }
+    ],
+    "3":[
+      {
+        "task":"Continue your passion project at a higher level",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":30
+      },
+      {
+        "task":"Supporting other students in developing their own passion project",
+        "description":"TEST Description",
+        "ID":"b",
+        "points":30
+      }
+    ],
+    "4":[
+      {
+        "task":"Become an expert in your chosen field",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":60
+      }
     ]
   },
   "pillar10":{
@@ -682,6 +858,28 @@
         "counted":"false",
         "points":0
       }
+    ],
+    "3":[
+      {
+        "task":"A year without a community service",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":30
+      },
+      {
+        "task":"Present a Be Organised workshop",
+        "description":"TEST Description",
+        "ID":"b",
+        "points":30
+      }
+    ],
+    "4":[
+      {
+        "task":"Work at level 3 accross all other pillars",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":60
+      }
     ]
   },"pillar11":{
     "pillarName": "Be Proactive",
@@ -746,6 +944,28 @@
         "ID":"d",
         "counted":"false",
         "points":0
+      }
+    ],
+    "3":[
+      {
+        "task":"Spend a 25 hour period outside in a wild place (this can be done in sections",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":30
+      },
+      {
+        "task":"Complete the John Muir discovery award",
+        "description":"TEST Description",
+        "ID":"b",
+        "points":30
+      }
+    ],
+    "4":[
+      {
+        "task":"Complete all section of the John Muir award",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":60
       }
     ]
   },
@@ -813,6 +1033,28 @@
         "ID":"d",
         "counted":"false",
         "points":0
+      }
+    ],
+    "3":[
+      {
+        "task":"Attend a formal interview with a partner",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":30
+      },
+      {
+        "task":"Attend a business/educational establishment event to help inspire your future",
+        "description":"Attend an event to help inspire your future",
+        "ID":"b",
+        "points":30
+      }
+    ],
+    "4":[
+      {
+        "task":"Be an inspiration to other people",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":60
       }
     ]
   }
