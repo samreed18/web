@@ -63,6 +63,14 @@
         "counted":"false",
         "points":0
       }
+    ],
+    "3":[
+      {
+        "task":"TEST",
+        "description":"TEST Description",
+        "ID":"a",
+        "points":30
+      }
     ]
   },
   "pillar2":{
